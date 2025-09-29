@@ -1,0 +1,205 @@
+Understood 👍 — here’s a single continuous list of 100 items, with “Question” and “Answer” spelled out clearly, no sections.
+
+⸻
+
+	1.	Question: What is Enterprise Data Protection (EDP)?
+Answer: It safeguards sensitive organizational data across Microsoft 365 services, including Copilot Chat, with contractual and technical safeguards.
+	2.	Question: Does Microsoft use customer data to train Copilot?
+Answer: No. Customer data is never used for training. Prompts and responses are protected like emails or files.
+	3.	Question: Are Copilot queries shared with advertisers?
+Answer: No. All queries are anonymized and never shared with advertisers.
+	4.	Question: Who should I contact for Enterprise Data Protection guidance?
+Answer: You should contact your FLU or Compliance Office.
+	5.	Question: Is Copilot data encrypted at rest?
+Answer: Yes. Files are encrypted at rest with the bank’s Customer Managed Key.
+	6.	Question: How long are Copilot prompts and responses preserved?
+Answer: They are preserved for one year in Microsoft Purview, or longer if under Legal Hold.
+	7.	Question: Are my Copilot sessions visible to other associates?
+Answer: No. Only you can see your prompts and responses.
+	8.	Question: Can I upload SSNs into Copilot?
+Answer: No. Social Security Numbers are blocked by design.
+	9.	Question: What happens if I upload MNPI documents?
+Answer: Copilot can process them, but Compliance validation is required before use.
+	10.	Question: What is Copilot Studio?
+Answer: A low-code/no-code platform that enables creation of AI-powered conversational agents.
+	11.	Question: What are Copilot Agents?
+Answer: AI-powered assistants that automate tasks, from simple prompts to autonomous workflows.
+	12.	Question: What are Microsoft Data Connectors?
+Answer: They are software connectors that enable integration of Copilot with internal and external systems.
+	13.	Question: When did Bank of America begin Copilot Studio governance?
+Answer: The process started in August 2025.
+	14.	Question: Can Copilot connect to external cloud sources?
+Answer: Yes, through subscription-based or public data services.
+	15.	Question: Does Copilot Studio require coding skills?
+Answer: No. It is designed for low-code and no-code use.
+	16.	Question: Can Copilot Agents execute HR workflows?
+Answer: Yes, if governance and compliance rules are followed.
+	17.	Question: Can Copilot Agents work without human oversight?
+Answer: No. They assist automation but require human review.
+	18.	Question: Can Copilot enrich SharePoint workflows?
+Answer: Yes. It can add contextual insights to SharePoint tasks.
+	19.	Question: Do Copilot integrations need IT setup?
+Answer: Yes. Connectors and governance must be approved.
+	20.	Question: Can I export data from Excel and analyze it in Copilot?
+Answer: Yes. You can upload Excel data for Copilot analysis.
+	21.	Question: How long is a Copilot Chat session valid?
+Answer: Up to 30 days.
+	22.	Question: Should I start a new session for new topics?
+Answer: Yes, for improved relevance.
+	23.	Question: Where does Copilot get its information?
+Answer: From training data, the internet, and user-uploaded documents.
+	24.	Question: What does RAG stand for?
+Answer: Retrieval-Augmented Generation.
+	25.	Question: What is an LLM?
+Answer: A Large Language Model trained on vast text data to generate human-like outputs.
+	26.	Question: What is ChatGPT in relation to Copilot?
+Answer: ChatGPT is the OpenAI LLM underlying Copilot.
+	27.	Question: Can Copilot remember my past session?
+Answer: Only within 30 days. After that, sessions expire.
+	28.	Question: Does Copilot automatically use RAG?
+Answer: Yes, when documents or external info are referenced.
+	29.	Question: Can Copilot produce inaccurate outputs?
+Answer: Yes. All critical outputs should be validated.
+	30.	Question: Can Copilot cite its sources?
+Answer: Yes, for uploaded or linked documents.
+	31.	Question: Can Copilot hallucinate?
+Answer: Yes. Always review its answers.
+	32.	Question: Does RAG improve accuracy?
+Answer: Yes. It grounds responses with external data.
+	33.	Question: Can Copilot summarize legal files?
+Answer: Yes, but Legal must review results.
+	34.	Question: Can Copilot translate documents?
+Answer: Yes, across supported languages.
+	35.	Question: What is the Copilot Prompt Library?
+Answer: A set of curated, ready-made prompts optimized for Copilot.
+	36.	Question: What are Bookmarks?
+Answer: Saved prompts for quick reuse.
+	37.	Question: Can I share my saved prompts?
+Answer: Yes, with teams in Microsoft Teams.
+	38.	Question: Can I delete prompts?
+Answer: No. You can only delete entire conversations.
+	39.	Question: How long are deleted conversations retained?
+Answer: For 12 months in Purview.
+	40.	Question: What features are in Copilot Chat?
+Answer: Content creation, prompt suggestions, file uploads, dictation, and custom instructions.
+	41.	Question: Can I use dictation in Copilot?
+Answer: Yes. Voice input is supported.
+	42.	Question: Can Copilot generate PowerPoint slides?
+Answer: Yes. It can create draft presentations.
+	43.	Question: Can Copilot rewrite emails?
+Answer: Yes, adjusting tone and style.
+	44.	Question: Can Copilot summarize multiple documents?
+Answer: Yes, up to five documents per chat.
+	45.	Question: Can Copilot extract dependencies in projects?
+Answer: Yes. It can analyze task relationships.
+	46.	Question: Can Copilot generate compliance-ready text?
+Answer: Yes, but it must be reviewed by Compliance.
+	47.	Question: Can Copilot prepare meeting action items?
+Answer: Yes. It can list owners, deadlines, and tasks.
+	48.	Question: How many languages does Copilot support?
+Answer: About 48 as of July 2025.
+	49.	Question: Which languages have high fidelity?
+Answer: English, Spanish, French, German, Italian, Portuguese, Dutch, Chinese, Japanese, Korean, Russian, Arabic.
+	50.	Question: Can Copilot handle slang?
+Answer: Rare slang may not be interpreted.
+	51.	Question: Can Copilot mix languages in prompts?
+Answer: Not reliably.
+	52.	Question: Can Copilot translate emails?
+Answer: Yes.
+	53.	Question: Can Copilot produce bilingual output?
+Answer: Yes, if requested.
+	54.	Question: Is Copilot translation equal to humans?
+Answer: No. Validate critical translations.
+	55.	Question: Can Copilot summarize a French PDF in English?
+Answer: Yes.
+	56.	Question: Can Copilot draft directly in Spanish?
+Answer: Yes.
+	57.	Question: Can Copilot translate technical terms?
+Answer: Yes, though accuracy may vary.
+	58.	Question: Does Copilot support right-to-left text?
+Answer: Limited; formatting may need correction.
+	59.	Question: Can Copilot build multilingual reports?
+Answer: Yes.
+	60.	Question: Can Copilot detect acronyms in other languages?
+Answer: Sometimes, context helps.
+	61.	Question: Does Copilot translation improve over time?
+Answer: Yes, as models are updated.
+	62.	Question: Can Copilot auto-detect languages?
+Answer: Yes, in most cases.
+	63.	Question: What is the max file size for uploads?
+Answer: 512 MB.
+	64.	Question: How many files can I upload?
+Answer: Up to 5 files per chat.
+	65.	Question: Is there a chat limit per day?
+Answer: No. Unlimited chats.
+	66.	Question: How many prompts per session?
+Answer: 30 prompts.
+	67.	Question: Why might file uploads fail?
+Answer: Empty files, unsupported formats, or broken links.
+	68.	Question: What file types are supported?
+Answer: Word, Excel, PPT, PDF, CSV, JSON.
+	69.	Question: What should I do if Copilot freezes?
+Answer: Restart the app, Teams, or browser.
+	70.	Question: How do I improve performance with large files?
+Answer: Upload instead of pasting, and break tasks into steps.
+	71.	Question: Does hardware impact Copilot performance?
+Answer: Yes. CPU and RAM availability matter.
+	72.	Question: Should I clear browser cache for Copilot?
+Answer: Yes, it can improve performance.
+	73.	Question: Can Copilot analyze images in documents?
+Answer: Mostly text; image analysis is limited.
+	74.	Question: Can Copilot read Excel formulas?
+Answer: Yes. It can analyze and explain formulas.
+	75.	Question: Does Copilot time out on large tasks?
+Answer: Sometimes; break tasks into smaller queries.
+	76.	Question: Can I upload OneDrive links instead of files?
+Answer: No. Upload the file directly.
+	77.	Question: Can Copilot process corrupted files?
+Answer: No. Re-save the file in a supported format.
+	78.	Question: Can I reuse files across chats?
+Answer: Yes, re-upload them as needed.
+	79.	Question: Can Copilot create dashboards from CSV?
+Answer: Yes.
+	80.	Question: What if Copilot stops mid-answer?
+Answer: Ask it to “continue” the response.
+	81.	Question: Is there a limit on tables in outputs?
+Answer: No, but very large tables may truncate.
+	82.	Question: Can Copilot produce charts?
+Answer: It provides chart-ready data, not graphics.
+	83.	Question: Why is Copilot’s visual inconsistent?
+Answer: Variations in prompts, system load, or request type.
+	84.	Question: How can I refine visuals?
+Answer: Ask Copilot to reformat or enhance them.
+	85.	Question: Can I request editable visuals?
+Answer: Yes.
+	86.	Question: Should I upload structured files for visuals?
+Answer: Yes, like Excel or CSV.
+	87.	Question: Can I ask Copilot for multiple chart types?
+Answer: Yes, specify format type.
+	88.	Question: Can Copilot misunderstand chart requests?
+Answer: Yes. Structured prompts reduce errors.
+	89.	Question: What do I do if visual formatting is wrong?
+Answer: Ask Copilot to correct it.
+	90.	Question: Can visuals include action items?
+Answer: Yes, with notes or bullet points.
+	91.	Question: Can Copilot produce diagrams?
+Answer: Limited capability.
+	92.	Question: How do I ensure visual consistency?
+Answer: Provide structured prompts and sample data.
+	93.	Question: Can Copilot summarize regulatory text?
+Answer: Yes, but Compliance review is mandatory.
+	94.	Question: Can Copilot rewrite technical terms into plain English?
+Answer: Yes.
+	95.	Question: Can Copilot detect deadlines in text?
+Answer: Yes.
+	96.	Question: Can Copilot generate FAQs from documents?
+Answer: Yes.
+	97.	Question: Can Copilot group content by theme?
+Answer: Yes.
+	98.	Question: Can Copilot insert information into tables?
+Answer: Yes, in formatted chat tables.
+	99.	Question: Can Copilot output vary by tone?
+Answer: Yes, formal, informal, or casual.
+	100.	Question: Can Copilot expand or shorten answers?
+Answer: Yes. It understands both “long” and “short” requests.
+

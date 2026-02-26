@@ -1,0 +1,7 @@
+Function ExtractURL(rng As Range) As String
+    If rng.Hyperlinks.Count > 0 Then
+        ExtractURL = rng.Hyperlinks(1).Address
+    Else
+        ExtractURL = ""
+    End If
+End Function
